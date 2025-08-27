@@ -84,7 +84,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@isocyanideisgood+%7C+@cam_worlddsinghkhushi5878@gmail@gmail.com;KhushiSingh✌️👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@isocyanideisgood+%7C+@singhkhushi5878@gmail@gmail.com;KhushiSingh✌️👨‍💻" alt="Typing SVG" />
 </p>
 
 <!-- Made with ❤️ by KhushiSingh -->

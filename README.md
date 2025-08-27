@@ -10,7 +10,7 @@
 
 ---
   ### 👨‍💻 About Me
-<img src="https://github.com/imkhushi07/portfolio/blob/main/profile.jpg?raw=true" width="200" />
+<img src="https://github.com/KhushiProfile .jpg/portfolio/blob/main/profile.jpg?raw=true" width="200" />
 
 - 🎓 I’m a Diploma student learning MERN Stack
 - 🌱 I’m Currently exploring **React**, **MongoDB (Atlas)**, **Docker**, and **AWS Cloud Services**

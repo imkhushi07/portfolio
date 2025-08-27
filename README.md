@@ -1,24 +1,18 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Bhale</h1>
+<h1 align="center">Hi 👋, I'm Khushi Singh</h1>
 <h3 align="center">Aspiring Full Stack Developer | Cloud Enthusiast | Photographer</h3>
-<h6 align="center">Hello, I am Abhijeet Bhale, a  Full Stack Software Engineer based in Indore, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
+<h6 align="center">Hello, I am Khushi Singh, a  Full Stack Software Engineer based in Indore, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Cloud+%7C+Docker+%7C+DevOps+Learner;Photography+%7C+Design+Lover" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/abhijeetBhale/Portfolio/blob/6bb27e4bc220b09db54cb01daa7fa4714e3484b9/assets/Abhijeet%20Bhale%20Resume%20Updated%201.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
-  </a>
-</div>
 
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔨 I’m currently working on a **GitHub Readme Generator Website**
-- 🌱 Currently exploring **React**, **MongoDB (Atlas)**, **Docker**, and **AWS Cloud Services**
+- 🌱 I’m Currently exploring **React**, **MongoDB (Atlas)**, **Docker**, and **AWS Cloud Services**
 - 📫 Reach me at: **[Portfolio Website](https://abhijeetbhale.github.io/Portfolio/)**
 - 🎯 Fun fact: *Doing coding just for funnnn :)))*
 
@@ -28,11 +22,10 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.instagram.com/isocyanideisgood" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhijeetbhale7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_beingkhushyy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/khushi-singh-16b3612a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://pinterest.com/AbhijeetBhale" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
-  <a href="https://reddit.com/user/Isocyanideisgood" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-  <a href="mailto:abhijeetbhale7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:singhkhushi5878@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -83,19 +76,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeetBhale&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetBhale&theme=gruvbox&layout=compact&hide_border=false" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhijeetBhale&theme=gruvbox&hide_border=false" />
-</p>
-
----
-
 ### 📌 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=abhijeetBhale&limit=5&theme=dark&combine_all_yearly_contributions=true" />
@@ -117,12 +97,9 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijeetBhale&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetBhale" />
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@isocyanideisgood+%7C+@cam_worldd;abhijeetbhale7@gmail.com;Abhijeet+Bhale✌️👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@isocyanideisgood+%7C+@cam_worlddsinghkhushi5878@gmail@gmail.com;KhushiSingh✌️👨‍💻" alt="Typing SVG" />
 </p>
 
-<!-- Made with ❤️ by Abhijeet Bhale -->
+<!-- Made with ❤️ by KhushiSingh -->

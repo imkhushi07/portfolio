@@ -78,7 +78,7 @@
 
 ### 📌 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abhijeetBhale&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=KhushiSingh&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
@@ -86,7 +86,7 @@
 ### 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetBhale&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiSingh&theme=react-dark&hide_border=true" />
 </p>
 
 ---

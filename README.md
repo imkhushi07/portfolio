@@ -9,14 +9,14 @@
 
 
 ---
+  ### 👨‍💻 About Me
+<img src="https://github.com/imkhushi07/portfolio/blob/main/profile.jpg?raw=true" width="200" />
 
-### 👨‍💻 About Me
-
+- 🎓 I’m a Diploma student learning MERN Stack
 - 🌱 I’m Currently exploring **React**, **MongoDB (Atlas)**, **Docker**, and **AWS Cloud Services**
-- 📫 Reach me at: **[Portfolio Website](https://abhijeetbhale.github.io/Portfolio/)**
-- 🎯 Fun fact: *Doing coding just for funnnn :)))*
-
-  
+- 💻 Passionate about Web Development & Designing
+- 🌐 Reach me at: [My Portfolio Website](https://pinterest.com/khushi)
+- 🎯 Fun fact: I love exploring new tech tools daily!
 ---
 
 ### 🌐 Connect With Me

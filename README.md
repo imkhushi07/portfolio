@@ -24,7 +24,7 @@
 <p align="left">
   <a href="https://www.instagram.com/_beingkhushyy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/khushi-singh-16b3612a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://pinterest.com/AbhijeetBhale" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+  <a href="https://pinterest.com/Khushi" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
   <a href="mailto:singhkhushi5878@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 

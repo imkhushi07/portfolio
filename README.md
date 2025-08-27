@@ -15,7 +15,7 @@
 - 🎓 I’m a Diploma student learning MERN Stack
 - 🌱 I’m Currently exploring **React**, **MongoDB (Atlas)**, **Docker**, and **AWS Cloud Services**
 - 💻 Passionate about Web Development & Designing
-- 🌐 Reach me at: [My Portfolio Website](https://www.linkedin.com/in/imkhushi07)
+- 🌐 Reach me at: [My Portfolio Website](https://www.linkedin.com/in/khushi-singh-16b3612a4/imkhushi07)
 - 🎯 Fun fact: I love exploring new tech tools daily!
 ---
 

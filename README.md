@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi Singh</h1>
 <h3 align="center">Aspiring Full Stack Developer | Cloud Enthusiast | Photographer</h3>
-<h6 align="center">Hello, I am Khushi Singh, a  Full Stack Software Engineer based in Indore, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
+<h6 align="center">Hello, I am Khushi Singh, a  Full Stack Software Engineer, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Cloud+%7C+Docker+%7C+DevOps+Learner;Photography+%7C+Design+Lover" alt="Typing SVG" />
@@ -24,7 +24,6 @@
 <p align="left">
   <a href="https://www.instagram.com/_beingkhushyy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/khushi-singh-16b3612a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://pinterest.com/Khushi" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
   <a href="mailto:singhkhushi5878@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -57,17 +56,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-#### 🖼️ Creative Tools
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
 #### 📊 ML & Data Tools
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -84,7 +72,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@isocyanideisgood+%7C+@singhkhushi5878@gmail@gmail.com;KhushiSingh✌️👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@isocyanideisgood+%7C+singhkhushi5878@gmail@gmail.com;KhushiSingh✌️👨‍💻" alt="Typing SVG" />
 </p>
 
 <!-- Made with ❤️ by KhushiSingh -->

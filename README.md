@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Singh</h1>
-<h3 align="center">Aspiring Full Stack Developer | Cloud Enthusiast | Photographer</h3>
+<h3 align="center">Aspiring Full Stack Developer | Frontend & Backend Development</h3>
 <h6 align="center">Hello, I am Khushi Singh, a  Full Stack Software Engineer, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
 
 <p align="center">
